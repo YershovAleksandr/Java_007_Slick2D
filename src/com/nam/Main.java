@@ -24,7 +24,7 @@ public class Main extends BasicGame
     @Override
     public void render(GameContainer gc, Graphics g) throws SlickException
     {
-        g.drawString("Howdy!", 10, 10);
+       // g.drawString("Howdy!", 10, 10);
         g.drawString("Hello world Motherfucka!!!!", 100, 100);
         g.drawString("Пидор сука!!!!", 100, 200);
     }
